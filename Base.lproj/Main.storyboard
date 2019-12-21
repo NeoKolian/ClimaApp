@@ -114,6 +114,7 @@
                         <viewLayoutGuide key="safeArea" id="o6H-nN-DDr"/>
                     </view>
                     <connections>
+                        <outlet property="backgroundImage" destination="4Zn-mm-7PK" id="atu-Nt-2QL"/>
                         <outlet property="cityLabel" destination="5AG-6r-G8y" id="joe-QT-jGH"/>
                         <outlet property="conditionImageView" destination="d5h-fY-HSb" id="3qP-CL-Jhg"/>
                         <outlet property="searchTextField" destination="CaJ-Yx-yFf" id="EVn-SR-8G5"/>
